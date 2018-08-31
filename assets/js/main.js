@@ -120,7 +120,6 @@
 						});
 
 				});
-
 		// Title Bar.
 			$titleBar = $(
 				'<div id="titleBar">' +
