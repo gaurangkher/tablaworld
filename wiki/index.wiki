@@ -1,7 +1,7 @@
-=Tabla World=
+==Tabla World==
 
-==Menu==
-* [[Tabla: the Instrument]]
+===Menu===
+* [[Tabla the Instrument]]
 * [[History]]
 * [[Masters]]
 * [[Tabla Bols]]

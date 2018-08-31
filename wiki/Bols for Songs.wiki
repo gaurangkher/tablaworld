@@ -1,6 +1,6 @@
-= Bols for Songs =
+== Bols for Songs ==
 
-== Hindi Songs ==
+=== Hindi Songs ===
 * [[Queen-Maine hoton se lagayi to]]
 * [[Lootera-Sawar Loon]]
 * [[Udta Punjab-Ikk Kudi]]
@@ -13,4 +13,4 @@
 * [[Bobby Jasoos-Tu]]
 * [[Jodha Akhbar-Khwaja Mere Khwaja]]
 
-== English Songs ==
+=== English Songs ===

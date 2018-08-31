@@ -1,0 +1,17 @@
+== Taals ==
+
+=== Popular Taals ===
+* [[Teentaal]]
+* [[Japtaal]]
+* [[Dadra]]
+* [[Keherwa]]
+* [[Rupak]]
+
+
+| Name         | Beats | Definition                                                            |
+|--------------|-------|-----------------------------------------------------------------------|
+| [[Teentaal]] | 16    | Dha Dhin Dhin Dha, Dha Dhin Dhin Dha, Ta Tin Tin Ta, Ta Dhin Dhin Dha |
+| [[Japtaal]]  | 10    | Dhin Na Dhin Dhin Na, Tin Na Tin Tin Na                               |
+| [[Dadra]]    | 6     | Dha Dhin Na, Dha Ti Na                                                |
+| [[Keherwa]]  | 8     | Dha Ge Na Ti Na Ka Dhin Na                                            |
+| [[Rupak]]    | 7     | Tin Tin Na Dhin Na Dhin Na                                            |
